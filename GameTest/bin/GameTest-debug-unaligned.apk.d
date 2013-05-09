@@ -1,6 +1,6 @@
-D:\Users\Karl\Documents\GitHub\GameTest\bin\GameTest-debug-unaligned.apk : \
-D:\Users\Karl\Documents\GitHub\GameTest\bin\GameTest.ap_ \
-D:\Users\Karl\Documents\GitHub\GameTest\bin\classes.dex \
+D:\Users\Karl\Documents\GitHub\AndEngine-GLES2-AnchorCenter-SandBox\GameTest\bin\GameTest-debug-unaligned.apk : \
+D:\Users\Karl\Documents\GitHub\AndEngine-GLES2-AnchorCenter-SandBox\GameTest\bin\GameTest.ap_ \
+D:\Users\Karl\Documents\GitHub\AndEngine-GLES2-AnchorCenter-SandBox\GameTest\bin\classes.dex \
 D:\Users\Karl\Documents\GitHub\AndEngine-GLES2-AnchorCenter-SandBox\AndEngineMODPlayerExtension\bin\classes.jar \
 D:\Users\Karl\Documents\GitHub\AndEngine-GLES2-AnchorCenter-SandBox\AndEnginePhysicsBox2DExtension\bin\classes.jar \
 D:\Users\Karl\Documents\GitHub\AndEngine-GLES2-AnchorCenter-SandBox\AndEngine\bin\classes.jar \

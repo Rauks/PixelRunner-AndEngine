@@ -1,2 +1,2 @@
-D:\Users\Karl\Documents\GitHub\GameTest\bin\AndroidManifest.xml : \
-D:\Users\Karl\Documents\GitHub\GameTest\AndroidManifest.xml \
+D:\Users\Karl\Documents\GitHub\AndEngine-GLES2-AnchorCenter-SandBox\GameTest\bin\AndroidManifest.xml : \
+D:\Users\Karl\Documents\GitHub\AndEngine-GLES2-AnchorCenter-SandBox\GameTest\AndroidManifest.xml \

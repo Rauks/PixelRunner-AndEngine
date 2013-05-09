@@ -98,4 +98,36 @@ public class GameActivity extends BaseGameActivity{
         super.onDestroy();
         this.mModPlayer.stop();
     }
+    
+    @Override
+    public synchronized void onPauseGame() {
+        super.onPauseGame();
+        if(!this.mModPlayer.isPaused()){
+            this.mModPlayer.pause();
+        }
+    }
+    
+    @Override
+    public synchronized void onResumeGame() {
+        super.onResumeGame();
+        if(this.mModPlayer.isPaused()){
+            this.mModPlayer.pause();
+        }
+    }
+    
+    @Override
+    protected void onPause() {
+        super.onPause();
+        if(!this.mModPlayer.isPaused()){
+            this.mModPlayer.pause();
+        }
+    }
+    
+    @Override
+    protected synchronized void onResume() {
+        super.onResume();
+        if(this.mModPlayer.isPaused()){
+            this.mModPlayer.pause();
+        }
+    }
 }
