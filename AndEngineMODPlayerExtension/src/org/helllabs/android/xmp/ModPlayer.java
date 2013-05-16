@@ -94,6 +94,11 @@ public class ModPlayer {
    
     public void play(String file, boolean bLoopMusic)
     {
+        if(playThread != null){
+            try {
+                    playThread.join();
+            } catch (InterruptedException e) { }    
+        }
     	mStopModule=false;
     	if (xmp.loadModule(file) < 0) {
     		return;
