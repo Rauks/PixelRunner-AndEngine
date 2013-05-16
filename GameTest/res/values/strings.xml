@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">GameActivity</string>
-    
-    <string name="dialog_modplayerexample_loading_to_external_title">Loading</string>
-    <string name="dialog_modplayerexample_loading_to_external_message">Transferring audio to SDCard...</string>
-</resources>
