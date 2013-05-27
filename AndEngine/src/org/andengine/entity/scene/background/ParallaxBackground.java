@@ -102,6 +102,7 @@ public class ParallaxBackground extends Background {
 			this.mParallaxFactor = pParallaxFactor;
 			this.mEntity = pEntity;
 
+                        /*
 			// TODO Adjust onDraw calculations, so that these assumptions aren't necessary.
 			if (this.mEntity.getX() != 0) {
 				Debug.w("The X position of a " + this.getClass().getSimpleName() + " is expected to be 0.");
@@ -110,6 +111,7 @@ public class ParallaxBackground extends Background {
 			if (this.mEntity.getOffsetCenterX() != 0) {
 				Debug.w("The OffsetCenterXposition of a " + this.getClass().getSimpleName() + " is expected to be 0.");
 			}
+                        */
 		}
 
 		// ===========================================================
