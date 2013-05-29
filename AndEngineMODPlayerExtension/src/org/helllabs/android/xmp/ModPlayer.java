@@ -118,6 +118,12 @@ public class ModPlayer {
     }
     
     public void pause() {
+        if(paused){
+            this.audio.play();
+        }
+        else{
+            this.audio.pause();
+        }
     	paused = !paused;
     }
     
